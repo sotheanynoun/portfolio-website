@@ -7,3 +7,7 @@
     They make it possible to see and even edit your Sass files in browsers.
 
 # Customizing Bootstrap
+
+# File Structure
+
+# The Navbar Section
